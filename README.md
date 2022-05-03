@@ -15,4 +15,7 @@ there are several words here that are used as keywords for the bot.
 
 | keyword | action |
 | ------- | ------ |
-| $yt | searches for whatever comes after it on youtube and sends the first video in the youtube search |
+| $yt video_name | searches for whatever comes after it on youtube and sends the first video in the youtube search |
+| $responding true/false | when set to true, it sends an encouraging message whenever a sad word appears in a message |
+| $add word | adds word to list of encouraging messages in the database, please use it wisely |
+| $inspire | sends an inspirational quote to the server |
