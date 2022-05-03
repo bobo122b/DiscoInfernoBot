@@ -11,5 +11,8 @@ banned_words = ["banned 1", "banned 2"]
 ```
 
 ## keywords
-there are several words here that are used as keywords for the bot
+there are several words here that are used as keywords for the bot.
+
+| keyword | action |
+| ------- | ------ |
 | $yt | searches for whatever comes after it on youtube and sends the first video in the youtube search |
